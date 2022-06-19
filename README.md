@@ -78,7 +78,7 @@ Metask mask ประกอบไปด้วย
 
 Tx จะถูกส่งเข้าที่ node ๆ นึง อย่าลืมว่า node ไม่ได้รับแค่ Tx เดียว
 
-![txToNode ](images/txToNode.png)
+![txToNode ](images/txTonode.png)
 
 Node จะทำการสร้าง Block โดยรวม lists of Tx
 
