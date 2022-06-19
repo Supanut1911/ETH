@@ -15,3 +15,13 @@
 - แต่ละ node ประกอบด้วย full copy of the blockchain
 
 - Blockchain ก็คือ database ที่ store record ของทุกๆ Tx
+
+# Interface with ETH Network
+
+![Interface_ETH_network ](images/interface_eth_network.png)
+
+Interface roles
+
+- Dev => use web3js to communicate with ETH_Network
+
+- Customer => use Metamas to communitacte with ETH_Network
