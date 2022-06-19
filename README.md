@@ -25,3 +25,35 @@ Interface roles
 - Dev => use web3js to communicate with ETH_Network
 
 - Customer => use Metamas to communitacte with ETH_Network
+
+# ETH Account
+
+Using metamask Extension
+
+![Metamask ](https://www.ananda.co.th/blog/thegenc/wp-content/uploads/2022/03/Metamask-cover.png)
+
+Metask mask ประกอบไปด้วย
+
+- Account Address ex: 0xcf7...c20
+
+- Public key ex: 0x3837...dc8c
+
+- Private key ex: 0x1b...1a3
+
+- metamask มีได้หลาย account (ใน 1 กระเป๋า มีช่องหลายๆช่อง)
+
+- แต่ละ account ต่อได้หลาย network
+
+  - mainnet
+
+  - Ropsten testnet
+
+  - Kovan testnet
+
+  - Rinkeby testnet
+
+  - localhost:8485
+
+\*account เดิม แต่คนละ network จะเป็นเลข account address เดิมนะ
+
+![Metamask_network ](images/metamask_network.png)
