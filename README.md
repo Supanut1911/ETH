@@ -57,3 +57,31 @@ Metask mask ประกอบไปด้วย
 \*account เดิม แต่คนละ network จะเป็นเลข account address เดิมนะ
 
 ![Metamask_network ](images/metamask_network.png)
+
+# Receiving ETH with Faucet
+
+![rinkeby_faucet ](images/rinkeby_faucet.png)
+
+## How is Faucet work?
+
+![faucetStep ](images/faucetStep.png)
+
+## Tx obj คือ ?
+
+![Txobj ](images/Txobj.png)
+
+## Why we wait?
+
+เหตุผลที่เราต้องรอเพราะ ตอนส่ง Tx เข้าไปใน network
+
+![Txobj ](images/txToNetwork.png)
+
+Tx จะถูกส่งเข้าที่ node ๆ นึง อย่าลืมว่า node ไม่ได้รับแค่ Tx เดียว
+
+![Txobj ](images/txToNode.png)
+
+Node จะทำการสร้าง Block โดยรวม lists of Tx
+
+![Txobj ](images/createBlock.png)
+
+เมื่อเติม Tx ลง block แล้ว จะทำการ validation block ด้วย validation_logic หรือที่เรียกกันว่า "Mining" นั่นเอง
