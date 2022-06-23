@@ -87,3 +87,5 @@ Node จะทำการสร้าง Block โดยรวม lists of Tx
 เมื่อเติม Tx ลง block แล้ว จะทำการ validation block ด้วย validation_logic หรือที่เรียกกันว่า "Mining" นั่นเอง
 
 \*ซึ่งการ validation_logic(minig) บน ETH_network จะใช้เวลา 30s
+
+#Basic Blockchains & Block time
