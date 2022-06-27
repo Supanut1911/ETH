@@ -89,3 +89,5 @@ Node จะทำการสร้าง Block โดยรวม lists of Tx
 \*ซึ่งการ validation_logic(minig) บน ETH_network จะใช้เวลา 30s
 
 #Basic Blockchains & Block time
+
+#Mingin & Block time
